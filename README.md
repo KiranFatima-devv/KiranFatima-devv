@@ -1,16 +1,55 @@
-## Hi there 👋
+# 👋 Hi, I'm Kiran Fatima
 
-<!--
-**KiranFatima-devv/KiranFatima-devv** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+Computer Science undergraduate passionate about building software that solves real problems.  
+3.89 CGPA | 15+ projects completed
 
-Here are some ideas to get you started:
+---
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+## 🛠️ Tech Stack
+
+**Languages:** Python, Java, C++, Assembly, SQL
+
+**Frameworks/Tools:** React, Node.js, Flask, Android Studio, Git
+
+**Databases:** MySQL, PostgreSQL, MongoDB
+
+**Other:** REST APIs, Automation, Data Processing, AI/ML
+
+---
+
+## 🚀 Featured Projects
+
+*(Coming soon — I'm currently polishing my best projects to showcase here!)*
+
+### 1. Online Food Delivery & Tracking System
+Full-stack application with real-time order tracking.
+
+### 2. AI Heart Disease Detection
+Machine learning model with 85% accuracy.
+
+### 3. Nexus OS
+Operating system in Assembly + Python.
+
+### 4. Privacy Risk Assessment app
+Security analysis and risk evaluation.
+
+### 5.Plant care diary App
+Android application for automated watering.
+
+---
+
+## 📊 GitHub Stats
+
+![GitHub Stats](https://github-readme-stats.vercel.app/api?username=KiranFatima-devv&show_icons=true&theme=radical)
+
+---
+
+## 📫 Let's Connect
+
+- Portfolio: (coming soon)
+- LinkedIn: (coming soon)
+- Email: kiranfatima.dev@gmail.com
+
+---
+
+⭐ **Currently:** Building my freelance portfolio | Available for Python automation projects
