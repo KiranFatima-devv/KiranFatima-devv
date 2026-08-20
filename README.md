@@ -19,13 +19,13 @@ Computer Science undergraduate passionate about building software that solves re
 
 ## 🚀 Featured Projects
 
-### 1. [Online Food Delivery & Tracking System](https://github.com/KiranFatima-dev/online-food-delivery-system)
+### 1. [Online Food Delivery & Tracking System](https://github.com/KiranFatima-devv/Online-Food-Delivery-And-Tracking-system.git)
 Full-stack web application with real-time order tracking, JWT authentication, and admin dashboard. Built with **React, Node.js, Express, and MySQL**.
 
-### 2. [AI Heart Disease Detection](https://github.com/KiranFatima-dev/ai-heart-disease-detection)
+### 2. [AI Heart Disease Detection](https://github.com/KiranFatima-devv/AI-Heart-Disease-Detection.git)
 Machine learning model that predicts heart disease risk with **85% accuracy**. Built with **Python, Scikit-learn, Pandas, and Flask**.
 
-### 3. [Plant Care Diary App](https://github.com/KiranFatima-dev/plant-care-diary)
+### 3. [Plant Care Diary App](https://github.com/KiranFatima-devv/Plant-Care-Diary-App.git)
 Cross-platform mobile app to track plant watering, growth logs, and care reminders. Built with **Flutter and SQLite**.
 
 ### 4. Nexus OS *(Coming Soon)*
