@@ -19,8 +19,6 @@ Computer Science undergraduate passionate about building software that solves re
 
 ## 🚀 Featured Projects
 
-*(Coming soon — I'm currently polishing my best projects to showcase here!)*
-
 ### 1. Online Food Delivery & Tracking System
 Full-stack application with real-time order tracking.
 
