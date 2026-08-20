@@ -7,47 +7,47 @@ Computer Science undergraduate passionate about building software that solves re
 
 ## 🛠️ Tech Stack
 
-**Languages:** Python, Java, C++, Assembly, SQL
+**Languages:** Python, Java, C++, Assembly, SQL, Dart
 
-**Frameworks/Tools:** React, Node.js, Flask, Android Studio, Git
+**Frameworks/Tools:** React, Node.js, Flask, Flutter, Android Studio, Git
 
-**Databases:** MySQL, PostgreSQL, MongoDB
+**Databases:** MySQL, PostgreSQL, MongoDB, SQLite
 
-**Other:** REST APIs, Automation, Data Processing, AI/ML
+**Other:** REST APIs, Automation, Data Processing, AI/ML, Mobile App Development
 
 ---
 
 ## 🚀 Featured Projects
 
-### 1. Online Food Delivery & Tracking System
-Full-stack application with real-time order tracking.
+### 1. [Online Food Delivery & Tracking System](https://github.com/KiranFatima-dev/online-food-delivery-system)
+Full-stack web application with real-time order tracking, JWT authentication, and admin dashboard. Built with **React, Node.js, Express, and MySQL**.
 
-### 2. AI Heart Disease Detection
-Machine learning model with 85% accuracy.
+### 2. [AI Heart Disease Detection](https://github.com/KiranFatima-dev/ai-heart-disease-detection)
+Machine learning model that predicts heart disease risk with **85% accuracy**. Built with **Python, Scikit-learn, Pandas, and Flask**.
 
-### 3. Nexus OS
-Operating system in Assembly + Python.
+### 3. [Plant Care Diary App](https://github.com/KiranFatima-dev/plant-care-diary)
+Cross-platform mobile app to track plant watering, growth logs, and care reminders. Built with **Flutter and SQLite**.
 
-### 4. Privacy Risk Assessment app
-Security analysis and risk evaluation.
+### 4. Nexus OS *(Coming Soon)*
+Custom operating system built with **Assembly and Python** — demonstrating low-level programming and OS concepts.
 
-### 5.Plant care diary App
-Android application for automated watering.
+### 5. Privacy Risk Assessment App *(Coming Soon)*
+Security analysis tool for evaluating privacy risks in systems. Built with **Python**.
 
 ---
 
 ## 📊 GitHub Stats
 
-![GitHub Stats](https://github-readme-stats.vercel.app/api?username=KiranFatima-devv&show_icons=true&theme=radical)
+![GitHub Stats](https://github-readme-stats.vercel.app/api?username=KiranFatima-dev&show_icons=true&theme=radical)
 
 ---
 
 ## 📫 Let's Connect
 
-- Portfolio: (coming soon)
-- LinkedIn: (coming soon)
-- Email: kiranfatima.dev@gmail.com
+- Portfolio: *(coming soon)*
+- LinkedIn: *(coming soon)*
+- **Email:** kiranfatima.dev@gmail.com
 
 ---
 
-⭐ **Currently:** Building my freelance portfolio | Available for Python automation projects
+⭐ **Currently:** Building my freelance portfolio | Available for Python automation & full-stack projects
